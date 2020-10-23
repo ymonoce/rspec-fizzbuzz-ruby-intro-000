@@ -9,7 +9,7 @@ def fizzbuzz(int)
       "Buzz"
 
     int % 3 & 5 == 0
-        "Buzz"
+        "FizzBuzz"
 
   end
 
