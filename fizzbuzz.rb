@@ -12,7 +12,7 @@ def fizzbuzz(int)
 
   end
 
-  if int % 3 and 5 == 0
+  if int % 3 & 5 == 0
       "FizzBuzz"
 
   end
